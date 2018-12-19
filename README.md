@@ -1,2 +1,2 @@
 # jsPopup
-pure javascript plugin for opening modal windows
+pure JavaScript plugin for work with modal windows
